@@ -1,0 +1,3 @@
+module tg-bot
+
+go 1.27.1
